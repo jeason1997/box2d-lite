@@ -9,7 +9,7 @@
 * It is provided "as is" without express or implied warranty.
 */
 
-#include "box2d-lite/Body.h"
+#include "Body.h"
 
 Body::Body()
 {
